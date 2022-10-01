@@ -1,0 +1,5 @@
+Kernel to Userspace Communication via Netlink sockets
+
+1. creation of netlink socket to send the data to userspace from kernel space
+2. Unicast method of sending to a userspace application
+
